@@ -1,0 +1,201 @@
+post_id,topic,likes,shares,saves,comments_count,caption,comments,post_length,post_time
+0,career,202,113,90,81,career related content,Loved this,short,afternoon
+1,dating,393,71,91,64,dating related content,Amazing content,short,night
+2,anxiety,134,123,116,24,anxiety related content,Not really useful,short,morning
+3,career,170,128,140,28,career related content,Very helpful,long,afternoon
+4,anxiety,149,132,135,43,anxiety related content,Could be better,short,afternoon
+5,fitness,248,58,64,63,fitness related content,So true!,short,afternoon
+6,career,322,126,143,78,career related content,I feel the same,long,night
+7,fitness,383,58,65,69,fitness related content,Not really useful,short,night
+8,career,244,76,91,95,career related content,Amazing content,long,night
+9,anxiety,199,132,70,52,anxiety related content,Could be better,long,morning
+10,dating,259,94,57,49,dating related content,Loved this,long,morning
+11,dating,367,117,66,79,dating related content,I disagree,short,night
+12,dating,450,53,43,98,dating related content,Loved this,short,night
+13,anxiety,160,137,104,81,anxiety related content,Loved this,short,morning
+14,dating,384,96,55,70,dating related content,Very helpful,short,night
+15,anxiety,237,105,93,78,anxiety related content,I disagree,short,night
+16,dating,346,98,84,23,dating related content,Loved this,short,afternoon
+17,dating,469,64,68,76,dating related content,Not really useful,long,night
+18,fitness,198,88,110,100,fitness related content,Loved this,long,night
+19,career,294,109,130,32,career related content,I disagree,long,night
+20,fitness,327,65,84,88,fitness related content,Could be better,long,night
+21,dating,242,70,59,99,dating related content,This is so relatable,long,morning
+22,anxiety,289,93,78,81,anxiety related content,So true!,short,night
+23,anxiety,177,129,130,43,anxiety related content,Loved this,long,morning
+24,anxiety,190,93,106,40,anxiety related content,I disagree,short,night
+25,dating,456,85,53,37,dating related content,This is so relatable,short,morning
+26,fitness,181,75,92,88,fitness related content,So true!,long,afternoon
+27,fitness,286,80,110,21,fitness related content,Amazing content,long,afternoon
+28,career,233,94,160,48,career related content,Amazing content,short,morning
+29,fitness,250,73,65,59,fitness related content,Could be better,short,night
+30,fitness,275,71,76,89,fitness related content,I disagree,short,afternoon
+31,fitness,190,90,74,95,fitness related content,Loved this,short,morning
+32,anxiety,233,143,113,68,anxiety related content,Loved this,long,morning
+33,fitness,203,67,94,92,fitness related content,I disagree,short,afternoon
+34,career,204,102,160,84,career related content,I disagree,short,night
+35,fitness,240,70,111,22,fitness related content,Not really useful,long,night
+36,fitness,316,89,95,95,fitness related content,I feel the same,short,afternoon
+37,anxiety,227,135,113,44,anxiety related content,Very helpful,long,afternoon
+38,career,245,117,82,33,career related content,Could be better,short,morning
+39,career,213,115,158,27,career related content,Could be better,short,afternoon
+40,fitness,280,67,75,95,fitness related content,I disagree,long,afternoon
+41,dating,261,74,61,29,dating related content,Could be better,short,afternoon
+42,dating,285,104,58,60,dating related content,I feel the same,short,night
+43,fitness,328,76,88,22,fitness related content,So true!,long,night
+44,dating,317,117,45,41,dating related content,I disagree,short,night
+45,dating,390,114,55,59,dating related content,So true!,short,morning
+46,career,307,73,143,90,career related content,Not really useful,short,night
+47,fitness,240,51,91,45,fitness related content,I feel the same,short,afternoon
+48,career,345,100,81,68,career related content,Very helpful,long,night
+49,fitness,331,79,119,99,fitness related content,I disagree,long,night
+50,career,262,120,107,40,career related content,Could be better,short,morning
+51,fitness,309,77,112,89,fitness related content,Amazing content,short,afternoon
+52,dating,244,114,90,22,dating related content,Very helpful,short,afternoon
+53,career,332,128,100,68,career related content,This helped me a lot,long,night
+54,career,311,102,153,28,career related content,I disagree,short,morning
+55,anxiety,243,122,94,39,anxiety related content,This is so relatable,short,night
+56,fitness,393,54,79,72,fitness related content,Not really useful,short,afternoon
+57,dating,335,112,81,81,dating related content,Not really useful,long,morning
+58,career,259,114,111,35,career related content,So true!,short,afternoon
+59,career,287,79,151,24,career related content,Not really useful,long,morning
+60,dating,410,109,96,45,dating related content,This helped me a lot,short,afternoon
+61,career,174,87,116,95,career related content,I feel the same,short,night
+62,fitness,362,83,68,69,fitness related content,This is so relatable,long,morning
+63,anxiety,103,131,133,36,anxiety related content,So true!,long,morning
+64,anxiety,145,91,107,40,anxiety related content,Could be better,long,afternoon
+65,anxiety,222,127,92,32,anxiety related content,I feel the same,short,afternoon
+66,career,223,116,89,89,career related content,This helped me a lot,short,night
+67,fitness,228,67,72,45,fitness related content,This helped me a lot,long,morning
+68,fitness,208,51,62,43,fitness related content,Very helpful,short,morning
+69,anxiety,133,103,90,35,anxiety related content,I feel the same,short,morning
+70,dating,410,66,53,46,dating related content,I feel the same,short,night
+71,career,330,69,90,41,career related content,Could be better,short,afternoon
+72,career,212,110,97,72,career related content,Very helpful,long,morning
+73,career,322,103,112,72,career related content,Could be better,short,night
+74,career,302,74,111,89,career related content,Not really useful,short,morning
+75,career,233,110,97,88,career related content,Loved this,short,afternoon
+76,fitness,239,63,64,80,fitness related content,Could be better,short,afternoon
+77,fitness,294,65,90,82,fitness related content,Very helpful,long,morning
+78,anxiety,157,89,102,55,anxiety related content,Loved this,long,afternoon
+79,fitness,321,53,62,34,fitness related content,So true!,long,morning
+80,fitness,321,50,69,89,fitness related content,This is so relatable,short,night
+81,career,298,96,97,81,career related content,Not really useful,short,afternoon
+82,dating,253,72,88,31,dating related content,Amazing content,short,afternoon
+83,career,200,105,92,73,career related content,Loved this,short,night
+84,career,255,122,123,64,career related content,Very helpful,short,night
+85,dating,213,100,71,62,dating related content,This helped me a lot,long,afternoon
+86,anxiety,239,98,139,68,anxiety related content,Not really useful,long,night
+87,career,345,98,110,46,career related content,Very helpful,long,morning
+88,fitness,302,69,101,22,fitness related content,Could be better,short,afternoon
+89,fitness,222,47,79,60,fitness related content,Could be better,long,morning
+90,dating,469,52,97,20,dating related content,Not really useful,long,afternoon
+91,fitness,247,76,102,47,fitness related content,Not really useful,short,afternoon
+92,fitness,260,61,63,49,fitness related content,Loved this,long,morning
+93,fitness,315,88,75,50,fitness related content,Very helpful,short,afternoon
+94,career,326,73,96,22,career related content,Loved this,long,night
+95,dating,282,70,82,35,dating related content,Amazing content,long,afternoon
+96,anxiety,255,98,101,75,anxiety related content,Could be better,long,night
+97,dating,241,73,47,25,dating related content,Amazing content,short,afternoon
+98,career,343,109,137,94,career related content,This is so relatable,long,morning
+99,career,343,116,158,29,career related content,So true!,short,afternoon
+100,anxiety,271,106,116,92,anxiety related content,Amazing content,short,morning
+101,anxiety,274,142,132,87,anxiety related content,Very helpful,short,morning
+102,career,290,109,132,75,career related content,So true!,long,morning
+103,dating,412,103,91,79,dating related content,I feel the same,long,afternoon
+104,anxiety,262,135,139,50,anxiety related content,So true!,long,morning
+105,anxiety,145,108,91,86,anxiety related content,Very helpful,short,afternoon
+106,anxiety,201,126,72,62,anxiety related content,Very helpful,short,afternoon
+107,anxiety,110,121,93,83,anxiety related content,This is so relatable,short,night
+108,fitness,252,53,70,85,fitness related content,So true!,short,night
+109,fitness,390,74,88,88,fitness related content,Amazing content,long,morning
+110,anxiety,254,84,103,60,anxiety related content,Very helpful,short,night
+111,anxiety,226,118,129,35,anxiety related content,Loved this,long,morning
+112,anxiety,198,104,118,50,anxiety related content,Could be better,long,night
+113,career,225,79,155,90,career related content,This is so relatable,long,afternoon
+114,anxiety,102,135,95,78,anxiety related content,I disagree,long,afternoon
+115,fitness,397,46,70,47,fitness related content,Amazing content,long,morning
+116,anxiety,184,102,79,80,anxiety related content,Amazing content,long,afternoon
+117,career,347,66,105,82,career related content,This is so relatable,short,afternoon
+118,dating,371,56,63,73,dating related content,I feel the same,long,night
+119,career,200,118,149,64,career related content,Loved this,short,morning
+120,career,173,69,108,23,career related content,This helped me a lot,short,afternoon
+121,dating,331,71,88,36,dating related content,I feel the same,short,afternoon
+122,anxiety,102,101,91,57,anxiety related content,Very helpful,long,morning
+123,fitness,237,71,64,92,fitness related content,Could be better,short,afternoon
+124,career,191,84,122,69,career related content,This helped me a lot,short,morning
+125,career,170,109,150,42,career related content,I feel the same,short,morning
+126,anxiety,276,99,123,73,anxiety related content,Not really useful,short,night
+127,career,167,122,97,48,career related content,Amazing content,short,afternoon
+128,career,203,91,143,67,career related content,I feel the same,long,night
+129,fitness,241,42,115,26,fitness related content,Very helpful,short,afternoon
+130,anxiety,240,138,101,80,anxiety related content,This helped me a lot,short,afternoon
+131,career,201,60,136,43,career related content,I disagree,short,afternoon
+132,fitness,283,41,90,44,fitness related content,Amazing content,long,afternoon
+133,dating,301,91,96,40,dating related content,Very helpful,long,afternoon
+134,fitness,182,40,109,34,fitness related content,So true!,long,night
+135,fitness,383,86,75,39,fitness related content,This is so relatable,short,afternoon
+136,career,339,122,106,77,career related content,I disagree,short,afternoon
+137,dating,265,104,78,77,dating related content,Could be better,long,morning
+138,anxiety,143,109,105,46,anxiety related content,Loved this,long,afternoon
+139,anxiety,285,142,99,51,anxiety related content,This is so relatable,short,afternoon
+140,fitness,380,60,88,61,fitness related content,Could be better,long,morning
+141,anxiety,220,115,124,45,anxiety related content,This helped me a lot,short,afternoon
+142,career,231,90,150,57,career related content,So true!,long,morning
+143,fitness,281,49,107,86,fitness related content,I disagree,long,afternoon
+144,fitness,351,86,115,97,fitness related content,Loved this,short,night
+145,career,276,66,135,75,career related content,This is so relatable,short,night
+146,anxiety,108,132,76,62,anxiety related content,I feel the same,long,afternoon
+147,dating,340,82,52,47,dating related content,This is so relatable,short,night
+148,career,233,108,159,78,career related content,Loved this,short,night
+149,fitness,301,54,104,77,fitness related content,Very helpful,long,afternoon
+150,anxiety,233,94,105,68,anxiety related content,Could be better,long,morning
+151,dating,207,113,63,94,dating related content,Could be better,long,morning
+152,fitness,326,41,73,84,fitness related content,I feel the same,long,night
+153,anxiety,242,108,80,47,anxiety related content,I feel the same,long,morning
+154,anxiety,165,108,101,22,anxiety related content,Not really useful,short,morning
+155,fitness,224,95,119,78,fitness related content,Could be better,short,afternoon
+156,dating,472,76,76,84,dating related content,Could be better,long,afternoon
+157,anxiety,111,147,138,53,anxiety related content,Amazing content,long,morning
+158,fitness,374,75,62,56,fitness related content,Loved this,short,afternoon
+159,dating,223,84,77,100,dating related content,Could be better,short,afternoon
+160,career,151,73,82,74,career related content,Amazing content,short,afternoon
+161,career,244,129,155,87,career related content,Very helpful,long,morning
+162,anxiety,176,142,97,65,anxiety related content,I disagree,long,afternoon
+163,career,308,129,96,94,career related content,Amazing content,long,morning
+164,career,265,83,149,31,career related content,I feel the same,long,afternoon
+165,anxiety,173,92,105,72,anxiety related content,This helped me a lot,short,night
+166,fitness,285,81,66,36,fitness related content,So true!,short,morning
+167,anxiety,203,85,81,85,anxiety related content,This helped me a lot,long,morning
+168,anxiety,241,87,116,70,anxiety related content,This is so relatable,long,afternoon
+169,anxiety,103,136,118,97,anxiety related content,So true!,short,afternoon
+170,anxiety,177,140,127,63,anxiety related content,So true!,long,night
+171,fitness,208,52,101,24,fitness related content,Not really useful,short,morning
+172,fitness,248,90,82,39,fitness related content,Not really useful,short,night
+173,career,217,118,160,22,career related content,This is so relatable,long,morning
+174,dating,241,105,48,68,dating related content,This helped me a lot,long,afternoon
+175,career,224,111,91,77,career related content,Amazing content,short,night
+176,career,170,68,128,79,career related content,Very helpful,short,morning
+177,anxiety,218,120,130,69,anxiety related content,I disagree,long,afternoon
+178,dating,269,75,62,47,dating related content,Very helpful,long,afternoon
+179,anxiety,300,113,102,86,anxiety related content,Loved this,short,night
+180,career,289,95,144,43,career related content,Loved this,long,afternoon
+181,dating,254,98,55,66,dating related content,This helped me a lot,long,morning
+182,career,281,86,154,61,career related content,Very helpful,long,night
+183,career,183,112,99,36,career related content,This is so relatable,long,afternoon
+184,dating,291,65,53,87,dating related content,Loved this,long,afternoon
+185,dating,201,74,85,98,dating related content,Not really useful,short,night
+186,dating,485,95,93,49,dating related content,I feel the same,long,morning
+187,fitness,326,66,65,40,fitness related content,This is so relatable,short,night
+188,career,156,95,140,64,career related content,So true!,short,night
+189,fitness,251,53,63,76,fitness related content,Amazing content,short,night
+190,anxiety,230,85,108,99,anxiety related content,I disagree,long,night
+191,anxiety,223,144,137,68,anxiety related content,Could be better,long,afternoon
+192,career,185,89,111,41,career related content,This is so relatable,long,night
+193,anxiety,209,81,94,65,anxiety related content,Very helpful,long,night
+194,fitness,310,96,83,60,fitness related content,This helped me a lot,long,morning
+195,anxiety,149,113,136,38,anxiety related content,I disagree,long,afternoon
+196,fitness,368,61,117,35,fitness related content,So true!,long,afternoon
+197,dating,427,75,91,27,dating related content,I feel the same,long,night
+198,fitness,323,48,111,92,fitness related content,So true!,long,night
+199,anxiety,279,94,76,85,anxiety related content,Could be better,long,morning
